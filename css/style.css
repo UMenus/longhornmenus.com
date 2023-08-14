@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    src: url(../fonts/Montserrat.ttf) format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: white;
+    color: #333;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    color: inherit;
+}
+
+footer {
+    padding: 20px;
+    color: #999;
+}
