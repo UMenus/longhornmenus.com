@@ -20,7 +20,6 @@ body {
 .column.previews {
     flex-direction: row;
     align-items: center;
-    overflow: hidden;
 }
 .column.previews .preview {
     height: 500px;
