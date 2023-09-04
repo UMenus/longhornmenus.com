@@ -55,7 +55,6 @@ body {
     width: 200px;
     max-width: 90vw;
     animation: over 1s ease-out;
-    margin-bottom: 10px;
 }
 @keyframes over {
     from { transform: translateX(-100vw); }
