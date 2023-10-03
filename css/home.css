@@ -63,22 +63,14 @@ body {
 
 h1 {
     font-size: 45px;
-    margin-top: 5px;
 }
 h2 {
     font-style: italic;
     font-size: 25px;
     margin-bottom: 12px;
 }
-hr {
-    height: 2px;
-    width: 40px;
-    background: #666;
-    border: none;
-    margin: 5px 0;
-}
 .download-buttons {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 .download-buttons .download-button {
