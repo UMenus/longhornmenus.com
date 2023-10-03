@@ -3,6 +3,7 @@ body {
 }
 .columns {
     white-space: nowrap;
+    overflow: hidden;
 }
 .column {
     white-space: normal;
