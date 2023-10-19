@@ -20,7 +20,8 @@ function getOS() {
 
 let os = getOS();
 if (os === "Android") {
-    window.location.replace("https://play.google.com/store/apps/details?id=com.adisa.diningplus");
+    //window.location.replace("https://play.google.com/store/apps/details?id=com.adisa.diningplus");
+    window.location.replace("/");
 } else if (os === "iOS") {
     window.location.replace("https://apps.apple.com/us/app/longhorn-menus/id6463041360");
 } else {
