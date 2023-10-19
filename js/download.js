@@ -22,7 +22,7 @@ let os = getOS();
 if (os === "Android") {
     window.location.replace("https://play.google.com/store/apps/details?id=com.adisa.diningplus");
 } else if (os === "iOS") {
-    window.location.replace("https://apps.apple.com/us/app/yale-menus/id1273168650");
+    window.location.replace("https://apps.apple.com/us/app/longhorn-menus/id6463041360");
 } else {
     window.location.replace("/");
 }
